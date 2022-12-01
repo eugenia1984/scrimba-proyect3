@@ -1,12 +1,15 @@
+import React, { useState } from "react";
 import "./MemeStyles.css";
 import { memesData } from "../../memesData.js";
 
 function Meme( { text } ) {
+  const [ memeImage, setMemeImage ] = useState("");
+
   function getMemeImage() {
     const memesArray = memesData.data.memes;
     const randomNumber = Math.floor(Math.random() * memesArray.length);
     const { url } = memesArray[randomNumber];
-    console.log(url)
+    setMemeImage( url)
   }
 
   return (
@@ -28,6 +31,7 @@ function Meme( { text } ) {
           { text} 
         </button>
       </div>
+      <img src={memeImage} alt="meme" className="meme-img"/>
     </main>
   );
 }
