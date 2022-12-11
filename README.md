@@ -48,9 +48,8 @@
 ## Demo 📦
 
 Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
-:arrow_right: aca
+:arrow_right: [aca](https://react-scrimba-meme.netlify.app/)
 
-Así quedó:
 
 Asi quedó:
 
