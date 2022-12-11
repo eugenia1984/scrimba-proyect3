@@ -50,6 +50,12 @@
 Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
 :arrow_right: aca
 
+Así quedó:
+
+Asi quedó:
+
+![image](https://user-images.githubusercontent.com/72580574/206873975-3e26b346-4f86-4d57-a2ca-d4a7e64b9737.png)
+
 ---
 
 
