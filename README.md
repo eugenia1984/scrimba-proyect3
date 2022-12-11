@@ -22,6 +22,7 @@
 - Conditional rendering
 - Forms
 - Side effects
+- Llamado a una API
 ```
 
 :book: -> [Acá se puede ver la teoría aprendida para realizar este proyecto](https://github.com/eugenia1984/react-varios-cursos/tree/main/03_scrimba/07_meme_generator)
